@@ -1,0 +1,36 @@
+PROJECT FINDINGS
+
+1. Overall Churn Rate
+
+* 20.37% of customers exited the bank.
+
+2. Customer Engagement Impact
+
+* Active customers churn rate: 14.27%
+* Inactive customers churn rate: 26.85%
+* Active customers are significantly more likely to stay.
+
+3. Product Utilization Impact
+
+* 1 Product: 27.71% churn
+* 2 Products: 7.58% churn
+* Customers with two products show the strongest retention.
+
+4. Balance vs Loyalty
+
+* Average balance of retained customers: 72,745
+* Average balance of churned customers: 91,109
+* High balance alone does not guarantee loyalty.
+
+5. Credit Card Ownership Impact
+
+* Without credit card: 20.81% churn
+* With credit card: 20.18% churn
+* Credit card ownership has minimal impact on retention.
+
+6. Geography Analysis
+
+* France: 16.15% churn
+* Spain: 16.67% churn
+* Germany: 32.44% churn
+* Germany has the highest customer churn rate.
